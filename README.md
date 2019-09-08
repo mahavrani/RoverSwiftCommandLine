@@ -33,6 +33,8 @@ PFB of the commands used in Terminal
 SVS-MAHA:RoverSwiftCommandLine maharani$ swift build
 
 SVS-MAHA:RoverSwiftCommandLine maharani$ .build/debug/RoverSwiftCommandLine 1
+
+
 Welcome to Mars Rover Problem Solution:
 Rover Input
 Rover1 Landing:1 2 N , Instructions:LMLMLMLMM
@@ -43,6 +45,7 @@ Rover Output :
 5 1 E
 
 SVS-MAHA:RoverSwiftCommandLine maharani$ .build/debug/RoverSwiftCommandLine 
+
 Welcome to Mars Rover Problem Solution:
 Enter X Co-ordinate:
 1
@@ -56,6 +59,7 @@ Rover Output :
 1 4 N
 
 SVS-MAHA:RoverSwiftCommandLine maharani$ swift test
+
 Test Suite 'All tests' started at 2019-09-08 22:18:48.070
 Test Suite 'RoverSwiftCommandLinePackageTests.xctest' started at 2019-09-08 22:18:48.071
 Test Suite 'RoverSwiftCommandLineTests' started at 2019-09-08 22:18:48.071
