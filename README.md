@@ -36,27 +36,45 @@ SVS-MAHA:RoverSwiftCommandLine maharani$ .build/debug/RoverSwiftCommandLine 1
 
 
 Welcome to Mars Rover Problem Solution:
+
 Rover Input
+
 Rover1 Landing:1 2 N , Instructions:LMLMLMLMM
+
 Rover2 Landing:3 3 E , Instructions:MMRMMRMRRM
+
 Rover Output : 
+
 1 3 N
+
 Rover Output : 
+
 5 1 E
 
 SVS-MAHA:RoverSwiftCommandLine maharani$ .build/debug/RoverSwiftCommandLine 
 
 Welcome to Mars Rover Problem Solution:
+
 Enter X Co-ordinate:
+
 1
+
 Enter Y Co-ordinate:
+
 3
+
 Enter direction by choosing N,E,S,W :
+
 N
+
 Enter commands :
+
 LMLMLMLMM
+
 Rover Output : 
+
 1 4 N
+
 
 SVS-MAHA:RoverSwiftCommandLine maharani$ swift test
 
